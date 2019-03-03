@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-<html lang="{{app()->getLocale()}}">
-
-<!DOCTYPE html>
 <html lang="{{ app()->getLocale() }}">
 
 <head>
@@ -38,3 +35,5 @@
   <!-- Scripts -->
   <script src="{{ mix('js/app.js') }}"></script>
 </body>
+
+</html>
